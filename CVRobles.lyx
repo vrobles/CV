@@ -398,7 +398,7 @@ status collapsed
 
 \end_inset
 
-Auditor Líder con norma ISO 9001:2008
+Curso Básico de Android
 \end_layout
 
 \begin_layout Standard
@@ -903,11 +903,6 @@ Me gusta mucho practicar volleyball y natación.
 
 \end_layout
 
-\begin_layout CloseSection
-AGD (Agencia de Garatias de Depositos) Ing.
- Enrique Yanez 2311311 Ext.1740
-\end_layout
-
 \begin_layout Bibliography
 \labelwidthstring References
 \begin_inset CommandInset bibitem
@@ -930,6 +925,18 @@ key "latexbook-2"
 
 UCSG (Universidad Catolica de Santiago de Guayaquil) Ing.
  Diogenes Diaz 
+\end_layout
+
+\begin_layout Bibliography
+\labelwidthstring References
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "latexbook-2-1"
+
+\end_inset
+
+AGD (Agencia de Garatias de Depositos) Ing.
+ Enrique Yanez 2311311 Ext.1740
 \end_layout
 
 \end_body
